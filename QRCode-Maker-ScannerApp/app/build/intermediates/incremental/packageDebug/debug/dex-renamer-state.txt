@@ -1,0 +1,4 @@
+#Sun Mar 24 17:18:31 CDT 2019
+base.0=/Users/jiaweiwu/Android-Projects/jancopylatest/JAN-MAS-Android/testdata/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

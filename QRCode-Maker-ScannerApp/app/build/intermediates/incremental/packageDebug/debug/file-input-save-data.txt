@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Mar 24 17:18:31 CDT 2019
+0.baseType=DIRECTORY
+0.base=/Users/jiaweiwu/Android-Projects/jancopylatest/JAN-MAS-Android/testdata/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

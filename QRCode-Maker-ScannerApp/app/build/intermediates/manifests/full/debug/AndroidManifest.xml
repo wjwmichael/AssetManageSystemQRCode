@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.testdata"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.testdata.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.testdata.EditActivity" />
+        <activity android:name="com.example.testdata.ScanActivity" />
+        <activity android:name="com.example.testdata.SearchActivity" />
+        <activity android:name="com.example.testdata.InsertpeopleActivity" />
+        <activity android:name="com.example.testdata.Updatepeople" />
+        <activity android:name="com.example.testdata.deletepeople" />
+        <activity android:name="com.example.testdata.InsertgoodsActivity" />
+        <activity android:name="com.example.testdata.Updategoods" />
+        <activity android:name="com.example.testdata.deletegoods" />
+        <activity android:name="com.example.testdata.CreateActivity" />
+    </application>
+
+</manifest>
