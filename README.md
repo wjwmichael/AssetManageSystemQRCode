@@ -1,4 +1,4 @@
-QR Code scanner and generator App
+QR Code generator and Scanner App
 
 ## Intro
 This is an android app built for generating and scanning beautiful QR code. The idea was inspired by this paper: [Halftone QR Codes](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/halftone_QR/halftoneQR_sigga13.html)
